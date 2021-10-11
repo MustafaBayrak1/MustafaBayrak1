@@ -41,7 +41,7 @@ I'm Mustafa, electrical and electronics engineering graduate student at Istanbul
 			"Python"
 		]
 	},
-	"Internships": {
+	"internships": {
 		"First": {
 			"firm": "ComPro",
 			"title": "Software Engineering Intern",
@@ -69,7 +69,7 @@ I'm Mustafa, electrical and electronics engineering graduate student at Istanbul
 			"endDate": 2023
 		}
 	},
-	"Passions": {
+	"passions": {
 		"Aviation": [
 			"Ace Combat",
 			"Revell Models"
