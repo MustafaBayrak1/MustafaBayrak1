@@ -1,6 +1,6 @@
 ## Welcome To My Page!
 
-I'm Mustafa,electrical and electronics engineering graduate student at Istanbul Medeniyet University <img src="https://scontent.fyei6-2.fna.fbcdn.net/v/t1.6435-9/40628834_1850685315012710_5368884960256065536_n.png?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=SNKJiOKxO24AX8AsaH5&_nc_ht=scontent.fyei6-2.fna&oh=a0ff2e237eb4f4c0d8da1b753212f061&oe=618A1B2B" width="15" height="15" /> 
+I'm Mustafa,electrical and electronics engineering graduate student at Istanbul Medeniyet University <img src="https://scontent.fyei6-2.fna.fbcdn.net/v/t1.6435-9/40628834_1850685315012710_5368884960256065536_n.png?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=SNKJiOKxO24AX8AsaH5&_nc_ht=scontent.fyei6-2.fna&oh=a0ff2e237eb4f4c0d8da1b753212f061&oe=618A1B2B" width="20" height="20" /> 
 
 ---
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MustafaBayrak1&theme=vue-dark)](https://github-readme-stats.vercel.app/api?username=MustafaBayrak1&theme=vue-dark)
@@ -44,7 +44,7 @@ I'm Mustafa,electrical and electronics engineering graduate student at Istanbul 
 	"Internships": {
 		"First": {
 			"firm": "ComPro",
-  		"title": "Software Engineering Intern",
+  			"title": "Software Engineering Intern",
 			"startDate": "2019-06-24",
 			"endDate": "2020-07-22"
 		},
