@@ -25,7 +25,7 @@ I'm Mustafa,electrical and electronics engineering graduate student at Istanbul 
 	"technicalSkills": {
 		"Robotics": [
 			"ROS",
-			"Gazebo",
+			"Gazebo"
 		],
 		"Essentials": [
 			"MATLAB",
@@ -38,13 +38,13 @@ I'm Mustafa,electrical and electronics engineering graduate student at Istanbul 
 			"C",
 			"C++",
 			"C#",
-			"Python",
-		],
+			"Python"
+		]
 	},
 	"Internships": {
 		"First": {
 			"firm": "ComPro",
-  			"title": "Software Engineering Intern",
+			"title": "Software Engineering Intern",
 			"startDate": "2019-06-24",
 			"endDate": "2020-07-22"
 		},
@@ -53,7 +53,7 @@ I'm Mustafa,electrical and electronics engineering graduate student at Istanbul 
 			"title": "Electrical Engineering Intern",
 			"startDate": "2021-07-26",
 			"endDate": "2021-08-20"
-		},
+		}
 	},
 	"education": {
 		"BSc": {
@@ -61,29 +61,29 @@ I'm Mustafa,electrical and electronics engineering graduate student at Istanbul 
 			"majorIn": "Electrical and Electronics Engineering",
 			"startDate": 2017,
 			"endDate": 2021
-		}
+		},
 		"Master": {
 			"name": "Istanbul Medeniyet University",
 			"majorIn": "Electrical and Electronics Engineering-Robotics",
 			"startDate": 2021,
 			"endDate": 2023
 		}
-	}
-  "Passions": {
+	},
+	"Passions": {
 		"Aviation": [
 			"Ace Combat",
-			"Revell Models",
+			"Revell Models"
 		],
 		"Education": [
 			"university selection guidance",
-			"lecture notes (coming soon)",
+			"lecture notes (coming soon)"
 		],
 		"Art": [
 			"Drawing",
 			"Cycling",
-			"Driving",
-		],
-	},
+			"Driving"
+		]
+	}
 }
 
 ```
